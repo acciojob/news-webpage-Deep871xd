@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
-.container {
+.container {  /* class of main tag */
   display: flex;
   justify-content: center;
   align-items: flex-start;
 }
 
-.latest-news-section,
-.main-article-section,
-.pictorial-news-section {
+.latest-news-section,   
+.main-article-section,  /* class of main article div */
+.pictorial-news-section {  /* class of Pictorial News div */
   margin: 0 10px;
 }
